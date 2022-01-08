@@ -1,0 +1,3 @@
+before doing anything add  the .wav files in
+C://Windows//Media
+ pip3 install pillow
